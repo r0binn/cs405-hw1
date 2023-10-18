@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1400" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="1400" height="1080" fill="white" />
+  <rect x="40" y="1040" width="1310" height="3" fill="black" />
+
+  <rect x="40" y="40" width="3" height="1000" fill="black" />
+  <rect x="1340" y="40" width="3" height="1000" fill="black" />
+
+  <rect x="70" y="650" width="50" height="365" fill="#2680c4" />
+  <text x="85" y="700" font-size="16" fill="white" font-weight="bold">73</text>
+  <ellipse cx="95" cy="440" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="440" width="10" height="2" fill="black" />
+  <text x="1355" y="445" font-size="12" font-weight="bold">3.2</text>
+  <rect x="30" y="650" width="10" height="2" fill="black" />
+  <text x="10" y="655" font-size="12" font-weight="bold">73</text>
+
+  <rect x="130" y="615" width="50" height="400" fill="#2680c4" />
+  <text x="145" y="665" font-size="16" fill="white" font-weight="bold">80</text>
+  <ellipse cx="155" cy="480" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="480" width="10" height="2" fill="black" />
+  <text x="1355" y="485" font-size="12" font-weight="bold">3.0</text>
+  <rect x="30" y="615" width="10" height="2" fill="black" />
+  <text x="10" y="620" font-size="12" font-weight="bold">80</text>
+
+  <rect x="190" y="625" width="50" height="390" fill="#2680c4" />
+  <text x="205" y="675" font-size="16" fill="white" font-weight="bold">78</text>
+  <ellipse cx="215" cy="500" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="500" width="10" height="2" fill="black" />
+  <text x="1355" y="505" font-size="12" font-weight="bold">2.9</text>
+
+  <rect x="250" y="645" width="50" height="370" fill="#2680c4" />
+  <text x="265" y="695" font-size="16" fill="white" font-weight="bold">74</text>
+  <ellipse cx="275" cy="540" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="540" width="10" height="2" fill="black" />
+
+  <rect x="310" y="630" width="50" height="385" fill="#2680c4" />
+  <text x="325" y="680" font-size="16" fill="white" font-weight="bold">77</text>
+  <ellipse cx="335" cy="540" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="540" width="10" height="2" fill="black" />
+  <text x="1355" y="545" font-size="12" font-weight="bold">2.7</text>
+
+  <rect x="370" y="555" width="50" height="460" fill="#2680c4" />
+  <text x="385" y="605" font-size="16" fill="white" font-weight="bold">92</text>
+  <ellipse cx="395" cy="420" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="420" width="10" height="2" fill="black" />
+  <rect x="30" y="555" width="10" height="2" fill="black" />
+  <text x="10" y="555" font-size="12" font-weight="bold">92</text>
+
+  <rect x="430" y="635" width="50" height="380" fill="#2680c4" />
+  <text x="445" y="685" font-size="16" fill="white" font-weight="bold">76</text>
+  <ellipse cx="455" cy="540" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="540" width="10" height="2" fill="black" />
+
+  <rect x="490" y="540" width="50" height="475" fill="#2680c4" />
+  <text x="505" y="590" font-size="16" fill="white" font-weight="bold">95</text>
+  <ellipse cx="515" cy="420" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="420" width="10" height="2" fill="black" />
+  <text x="1355" y="425" font-size="12" font-weight="bold">3.3</text>
+
+
+  <rect x="550" y="480" width="50" height="535" fill="#2680c4" />
+  <text x="563" y="530" font-size="16" fill="white" font-weight="bold">107</text>
+  <ellipse cx="575" cy="360" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="360" width="10" height="2" fill="black" />
+  <text x="1355" y="365" font-size="12" font-weight="bold">3.6</text>
+
+  <rect x="610" y="500" width="50" height="515" fill="#2680c4" />
+  <text x="623" y="550" font-size="16" fill="white" font-weight="bold">103</text>
+  <ellipse cx="635" cy="320" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="320" width="10" height="2" fill="black" />
+  <text x="1355" y="325" font-size="12" font-weight="bold">3.8</text>
+  <rect x="30" y="500" width="10" height="2" fill="black" />
+  <text x="5" y="505" font-size="12" font-weight="bold">103</text>
+
+  <rect x="670" y="485" width="50" height="530" fill="#2680c4" />
+  <text x="682" y="535" font-size="16" fill="white" font-weight="bold">106</text>
+  <ellipse cx="695" cy="440" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="440" width="10" height="2" fill="black" />
+
+  <rect x="730" y="590" width="50" height="425" fill="#2680c4" />
+  <text x="745" y="640" font-size="16" fill="white" font-weight="bold">85</text>
+  <ellipse cx="755" cy="560" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="560" width="10" height="2" fill="black" />
+  <text x="1355" y="565" font-size="12" font-weight="bold">2.6</text>
+
+  <rect x="790" y="400" width="50" height="615" fill="#2680c4" />
+  <text x="802" y="450" font-size="16" fill="white" font-weight="bold">123</text>
+  <ellipse cx="815" cy="300" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="300" width="10" height="2" fill="black" />
+  <text x="1355" y="305" font-size="12" font-weight="bold">3.9</text>
+  <rect x="30" y="400" width="10" height="2" fill="black" />
+  <text x="5" y="400" font-size="12" font-weight="bold">123</text>
+
+  <rect x="850" y="600" width="50" height="415" fill="#2680c4" />
+  <text x="865" y="650" font-size="16" fill="white" font-weight="bold">83</text>
+  <ellipse cx="875" cy="560" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="560" width="10" height="2" fill="black" />
+
+  <rect x="910" y="610" width="50" height="405" fill="#2680c4" />
+  <text x="925" y="660" font-size="16" fill="white" font-weight="bold">81</text>
+  <ellipse cx="935" cy="580" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="580" width="10" height="2" fill="black" />
+  <text x="1355" y="585" font-size="12" font-weight="bold">2.5</text>
+
+  <rect x="970" y="685" width="50" height="330" fill="#2680c4" />
+  <text x="985" y="735" font-size="16" fill="white" font-weight="bold">66</text>
+  <ellipse cx="995" cy="660" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="660" width="10" height="2" fill="black" />
+  <text x="1355" y="665" font-size="12" font-weight="bold">2.1</text>
+
+  <rect x="1030" y="660" width="50" height="355" fill="#2680c4" />
+  <text x="1045" y="710" font-size="16" fill="white" font-weight="bold">71</text>
+  <ellipse cx="1055" cy="660" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="660" width="10" height="2" fill="black" />
+
+  <rect x="1090" y="685" width="50" height="330" fill="#2680c4" />
+  <text x="1105" y="735" font-size="16" fill="white" font-weight="bold">66</text>
+  <ellipse cx="1115" cy="700" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="700" width="10" height="2" fill="black" />
+  <text x="1355" y="705" font-size="12" font-weight="bold">1.9</text>
+  <rect x="30" y="700" width="10" height="2" fill="black" />
+  <text x="10" y="705" font-size="12" font-weight="bold">66</text>
+
+  <rect x="1150" y="725" width="50" height="290" fill="#2680c4" />
+  <text x="1165" y="775" font-size="16" fill="white" font-weight="bold">58</text>
+  <ellipse cx="1175" cy="760" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="760" width="10" height="2" fill="black" />
+  <text x="1355" y="765" font-size="12" font-weight="bold">1.6</text>
+  <rect x="30" y="760" width="10" height="2" fill="black" />
+  <text x="10" y="765" font-size="12" font-weight="bold">58</text>
+  <text x="10" y="1045" font-size="12" font-weight="bold">0</text>
+  <rect x="30" y="1040" width="10" height="3" fill="black" />
+  <text x="1355" y="1045" font-size="12" font-weight="bold">0.0</text>
+
+
+  <rect x="1210" y="660" width="50" height="355" fill="#2680c4" />
+  <text x="1225" y="710" font-size="16" fill="white" font-weight="bold">71</text>
+  <ellipse cx="1235" cy="740" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="740" width="10" height="2" fill="black" />
+  <text x="1355" y="745" font-size="12" font-weight="bold">1.7</text>
+
+  <rect x="1270" y="610" width="50" height="405" fill="#2680c4" />
+  <text x="1285" y="660" font-size="16" fill="white" font-weight="bold">81</text>
+  <ellipse cx="1295" cy="680" rx="5" ry="5" fill="#ab1713" />
+  <rect x="1340" y="680" width="10" height="2" fill="black" />
+  <text x="1355" y="685" font-size="12" font-weight="bold">2.0</text>
+
+  <text x="80" y="1070" font-weight="bold">2002</text>
+  <text x="140" y="1070" font-weight="bold">2003</text>
+  <text x="200" y="1070" font-weight="bold">2004</text>
+  <text x="260" y="1070" font-weight="bold">2005</text>
+  <text x="320" y="1070" font-weight="bold">2006</text>
+  <text x="380" y="1070" font-weight="bold">2007</text>
+  <text x="440" y="1070" font-weight="bold">2008</text>
+  <text x="500" y="1070" font-weight="bold">2009</text>
+  <text x="560" y="1070" font-weight="bold">2010</text>
+  <text x="620" y="1070" font-weight="bold">2011</text>
+  <text x="680" y="1070" font-weight="bold">2012</text>
+  <text x="740" y="1070" font-weight="bold">2013</text>
+  <text x="800" y="1070" font-weight="bold">2014</text>
+  <text x="860" y="1070" font-weight="bold">2015</text>
+  <text x="920" y="1070" font-weight="bold">2016</text>
+  <text x="980" y="1070" font-weight="bold">2017</text>
+  <text x="1040" y="1070" font-weight="bold">2018</text>
+  <text x="1100" y="1070" font-weight="bold">2019</text>
+  <text x="1160" y="1070" font-weight="bold">2020</text>
+  <text x="1220" y="1070" font-weight="bold">2021</text>
+  <text x="1280" y="1070" font-weight="bold">2022</text>
+  <polyline
+    points="95,440 155,480 215,500 275,540 335,540 395,420 455,540 515,420 575,360 635,320 695,440 755,560 815,300 875,560 935,580 995,660 1055,660 1115,700 1175,760 1235,740 1295,680"
+    fill="none" stroke="#ab1713" stroke-width="3" />
+  <text x="60" y="40" font-size="18">
+    Number of suicides below the age of 15
+  </text>
+  <text x="980" y="40" font-size="18">
+    Percentage of suicides below the age of 15
+  </text>
+  <rect x="390" y="23" width="20" height="20" fill="#2680c4" />
+  <ellipse cx="940" cy="35" rx="5" ry="5" fill="#ab1713" />
+  <rect x="920" y="34" width="40" height="3" fill="#ab1713" />
+
+</svg>
